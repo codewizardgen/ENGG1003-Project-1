@@ -5,7 +5,7 @@ int main(){
 	
 	/*---------------WELCOME WINDOW---------------
 	The following block of print statements are written seperately in an attempt to make the code more readable*/
-	printf("Welcome to Cipher Central! Encripting and decripting messages since '19.\n");
+	printf("Welcome to Cipher Central! Encrypting and decrypting messages since '19.\n");
 	printf("Please enter the letter corresponding to your desired action (eg. a<ENTER>):\n");  
 	printf("	a) Rotation cipher encryption");
 	printf("	b) Sunstitution cipher encryption");
